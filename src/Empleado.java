@@ -5,4 +5,5 @@ public class Empleado {
     private int edad;
     private double sueldo;
 
+    void invrementarEdad(){edad+=1;}
 }
